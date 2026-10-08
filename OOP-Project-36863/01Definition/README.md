@@ -1,1 +1,0 @@
-UniHelper is an academic management and daily planning tool designed to help university students organize their weekly schedules, control academic-related expenses, and navigate campus grounds efficiently. Built as a modular Java, the system processes schedule constraints, travel choices, and dynamic budgeting in an integrated environment.
